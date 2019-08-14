@@ -22,7 +22,7 @@ def bonus
 
   bonus[:montague][:hero][:status] = "dead"
   bonus[:capulet][:heroine][:status] = "dead"
-  return bonues
+  return bonus
 
   
 
